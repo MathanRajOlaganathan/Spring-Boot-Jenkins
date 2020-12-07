@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: Spring-Boot-Jenkins
+server:
+  port: 8080
